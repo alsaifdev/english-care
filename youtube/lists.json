@@ -1,0 +1,604 @@
+[
+  {
+    "kind": "youtube#playlist",
+    "etag": "VAPoi8TxCssFkEEmFYgyITvEHJo",
+    "id": "PLO2LiEIxSO89kX6yiBWHycHiH_LpBVJXC",
+    "snippet": {
+      "publishedAt": "2022-08-01T10:45:56Z",
+      "channelId": "UC8jB8_Hv_ZXVBgOp6LEYd2w",
+      "title": "GST Preparation",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/SdqGuicVMpU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/SdqGuicVMpU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/SdqGuicVMpU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/SdqGuicVMpU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/SdqGuicVMpU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "English Care - Biddut Sir",
+      "localized": {
+        "title": "GST Preparation",
+        "description": ""
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "mJQDhqz4ZaHM-dI7S3CgPYMTs28",
+    "id": "PLO2LiEIxSO8-95yYSqILtIokKDIt4Zeh2",
+    "snippet": {
+      "publishedAt": "2022-07-25T14:14:58Z",
+      "channelId": "UC8jB8_Hv_ZXVBgOp6LEYd2w",
+      "title": "Grammar Practice",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/RGnkWiO2uH4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/RGnkWiO2uH4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/RGnkWiO2uH4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/RGnkWiO2uH4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/RGnkWiO2uH4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "English Care - Biddut Sir",
+      "localized": {
+        "title": "Grammar Practice",
+        "description": ""
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "WGrNy5dVQITYoZzFMx-eWMm__GM",
+    "id": "PLO2LiEIxSO89Y3EJImu7aZf98S91DypmU",
+    "snippet": {
+      "publishedAt": "2022-07-08T08:29:53Z",
+      "channelId": "UC8jB8_Hv_ZXVBgOp6LEYd2w",
+      "title": "Chittagong University",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/MsGBWjeUIVU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/MsGBWjeUIVU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/MsGBWjeUIVU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/MsGBWjeUIVU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/MsGBWjeUIVU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "English Care - Biddut Sir",
+      "localized": {
+        "title": "Chittagong University",
+        "description": ""
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "l2Dyj2xtFFsiJLT_0BO_zEZ0dyI",
+    "id": "PLO2LiEIxSO8-z9Wi_cZaZw9OupsIJgzSj",
+    "snippet": {
+      "publishedAt": "2022-07-05T14:27:44Z",
+      "channelId": "UC8jB8_Hv_ZXVBgOp6LEYd2w",
+      "title": "RU Preparation",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/w3vRJTOEbEw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/w3vRJTOEbEw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/w3vRJTOEbEw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/w3vRJTOEbEw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/w3vRJTOEbEw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "English Care - Biddut Sir",
+      "localized": {
+        "title": "RU Preparation",
+        "description": ""
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "lCelzv3JPYMrJZglKvHKBS9bgrk",
+    "id": "PLO2LiEIxSO8_ZGHcJRe2fDrZqLGxh4Opa",
+    "snippet": {
+      "publishedAt": "2022-06-27T12:53:44Z",
+      "channelId": "UC8jB8_Hv_ZXVBgOp6LEYd2w",
+      "title": "Vocabulary With Root Words",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/evSCBc4SnaM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/evSCBc4SnaM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/evSCBc4SnaM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/evSCBc4SnaM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/evSCBc4SnaM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "English Care - Biddut Sir",
+      "localized": {
+        "title": "Vocabulary With Root Words",
+        "description": ""
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "qorJS_M_PWDREZ02SIlPCspeJNc",
+    "id": "PLO2LiEIxSO8-JRs5A1Dv_V5XizUECRSxn",
+    "snippet": {
+      "publishedAt": "2022-06-21T12:42:20Z",
+      "channelId": "UC8jB8_Hv_ZXVBgOp6LEYd2w",
+      "title": "Preposition",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5IM0ctXt1ZE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5IM0ctXt1ZE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5IM0ctXt1ZE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5IM0ctXt1ZE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5IM0ctXt1ZE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "English Care - Biddut Sir",
+      "localized": {
+        "title": "Preposition",
+        "description": ""
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "veeut6CxM9SXXRzmgR3WoIrZtYM",
+    "id": "PLO2LiEIxSO8-lRr1c1i5ZS6eMEWG9Gx5A",
+    "snippet": {
+      "publishedAt": "2022-05-24T12:03:06Z",
+      "channelId": "UC8jB8_Hv_ZXVBgOp6LEYd2w",
+      "title": "Panacea English Model Test",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eSOvNOedgx4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eSOvNOedgx4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eSOvNOedgx4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eSOvNOedgx4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/eSOvNOedgx4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "English Care - Biddut Sir",
+      "localized": {
+        "title": "Panacea English Model Test",
+        "description": ""
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "WuQp4lo_m8rxBfgeViuOoh2RXHA",
+    "id": "PLO2LiEIxSO88FUgVLUxCbkNcCc-4omloC",
+    "snippet": {
+      "publishedAt": "2022-05-19T14:03:38Z",
+      "channelId": "UC8jB8_Hv_ZXVBgOp6LEYd2w",
+      "title": "Sentence making",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/Xw9yseutJ6k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/Xw9yseutJ6k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/Xw9yseutJ6k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/Xw9yseutJ6k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/Xw9yseutJ6k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "English Care - Biddut Sir",
+      "localized": {
+        "title": "Sentence making",
+        "description": ""
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "tRV9e2N_1GMV2CE2k2xNitLirt0",
+    "id": "PLO2LiEIxSO8_yayBMzY0EFaBugbUOwbUA",
+    "snippet": {
+      "publishedAt": "2022-05-17T15:05:23Z",
+      "channelId": "UC8jB8_Hv_ZXVBgOp6LEYd2w",
+      "title": "Fill in the blank",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/6T9ONMMuwjY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/6T9ONMMuwjY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/6T9ONMMuwjY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/6T9ONMMuwjY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/6T9ONMMuwjY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "English Care - Biddut Sir",
+      "localized": {
+        "title": "Fill in the blank",
+        "description": ""
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "6MIOSLmaPPqt-7_AQNDqY8Y2l4w",
+    "id": "PLO2LiEIxSO883B8V2RaCKB3QastJJLGmN",
+    "snippet": {
+      "publishedAt": "2022-03-07T13:43:40Z",
+      "channelId": "UC8jB8_Hv_ZXVBgOp6LEYd2w",
+      "title": "Figure of speech",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eYBcTt_vXdc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eYBcTt_vXdc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eYBcTt_vXdc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eYBcTt_vXdc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/eYBcTt_vXdc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "English Care - Biddut Sir",
+      "localized": {
+        "title": "Figure of speech",
+        "description": ""
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "dDy_OyZfk9qTSgqRr0P0od9lh2Q",
+    "id": "PLO2LiEIxSO89r0uNj6DFWnXV-DD-Iid3y",
+    "snippet": {
+      "publishedAt": "2021-11-14T02:09:36Z",
+      "channelId": "UC8jB8_Hv_ZXVBgOp6LEYd2w",
+      "title": "Textbook",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/i_ixCxJMQy8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/i_ixCxJMQy8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/i_ixCxJMQy8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/i_ixCxJMQy8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/i_ixCxJMQy8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "English Care - Biddut Sir",
+      "localized": {
+        "title": "Textbook",
+        "description": ""
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "XnzG0I7zxRfCn_CysHI3vYvFPZI",
+    "id": "PLO2LiEIxSO8-zzphbafFnQtSk_czZuuDQ",
+    "snippet": {
+      "publishedAt": "2021-10-30T01:05:25Z",
+      "channelId": "UC8jB8_Hv_ZXVBgOp6LEYd2w",
+      "title": "Free Hand Writing",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/WFBAcYcNb50/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/WFBAcYcNb50/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/WFBAcYcNb50/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/WFBAcYcNb50/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/WFBAcYcNb50/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "English Care - Biddut Sir",
+      "localized": {
+        "title": "Free Hand Writing",
+        "description": ""
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "GycavZ2vtSE_3XLahF0-Qd7VPP0",
+    "id": "PLO2LiEIxSO8_eu2_BZjAvPpksfY_JJh93",
+    "snippet": {
+      "publishedAt": "2021-09-20T04:57:21Z",
+      "channelId": "UC8jB8_Hv_ZXVBgOp6LEYd2w",
+      "title": "Vocabulary",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/VPR6XPSUGdk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/VPR6XPSUGdk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/VPR6XPSUGdk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/VPR6XPSUGdk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/VPR6XPSUGdk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "English Care - Biddut Sir",
+      "localized": {
+        "title": "Vocabulary",
+        "description": ""
+      }
+    }
+  },
+  {
+    "kind": "youtube#playlist",
+    "etag": "bTMO4MK-KxID-ZPGSsAVPEdt4tM",
+    "id": "PLO2LiEIxSO8-y5OUcFYMiN8bZEiZdh_Eh",
+    "snippet": {
+      "publishedAt": "2020-10-28T15:28:15Z",
+      "channelId": "UC8jB8_Hv_ZXVBgOp6LEYd2w",
+      "title": "Identification of parts of speech",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DBQeQVdnvBM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DBQeQVdnvBM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DBQeQVdnvBM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DBQeQVdnvBM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DBQeQVdnvBM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "English Care - Biddut Sir",
+      "localized": {
+        "title": "Identification of parts of speech",
+        "description": ""
+      }
+    }
+  }
+]
